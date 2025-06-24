@@ -1,2 +1,2 @@
 # CODSOFT_WD_01
-Basic Landing Page using htnl and css
+Basic Landing Page using html and css
